@@ -8,10 +8,8 @@
   "module": "index.js",
   "exports": {
     ".": "./index.js",
-    "./azl-spinner": "./azl-spinner.js",
-    "./azl-spinner.js": "./azl-spinner.js",
-    "./azl-overlay-spinner": "./azl-overlay-spinner.js",
-    "./azl-overlay-spinner.js": "./azl-overlay-spinner.js"
+    "./azl-card": "./azl-card.js",
+    "./azl-card.js": "./azl-card.js"
   },
   "files": [
     "*"
