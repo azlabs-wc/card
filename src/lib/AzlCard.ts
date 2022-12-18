@@ -24,7 +24,8 @@ export class Card extends LitElement {
 
   protected override render() {
     let cssClass: ClassInfo = {};
-    for (const item of this.cssClass?.split(' ')) {
+    const list = this.cssClass ?? '';
+    for (const item of list.split(' ')) {
       cssClass = { ...cssClass, [item]: true };
     }
     // Set the clickable property
