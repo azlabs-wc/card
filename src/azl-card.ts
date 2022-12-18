@@ -12,4 +12,4 @@ export function registerElement(name: string, elementClass: any) {
 }
 
 // Register bubble loader as web component
-registerElement('azl-bbl-loader', Card);
+registerElement('azl-card', Card);
