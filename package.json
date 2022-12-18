@@ -1,9 +1,9 @@
 {
-  "name": "azl-card",
-  "description": "Webcomponent azl-card following open-wc recommendations",
+  "name": "@azlabs-wc/card",
+  "description": "Card Web Component based on Lit Element",
   "license": "MIT",
   "author": "Azandrew Sidoine <azandrewdevelopper@gmail.com>",
-  "version": "0.1.0",
+  "version": "0.0.9",
   "main": "index.js",
   "module": "index.js",
   "exports": {
